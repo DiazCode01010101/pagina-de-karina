@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Almacen Store valledupar</title>
+      
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
+        
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container px-4 px-lg-5">
+                <a class="navbar-brand" href="">Store valledupar</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">
+                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="index.html">inicio</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#!">Sobre nosotros</a></li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Comercio</a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <li><a class="dropdown-item" href="#!">Todos los productos</a></li>
+                                <li><hr class="dropdown-divider" /></li>
+                                <li><a class="dropdown-item" href="#!">productos mas populares</a></li>
+                                <li><a class="dropdown-item" href="#!">Los recien llegados</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <form class="d-flex">
+                        <button class="btn btn-outline-dark" type="submit">
+                            <i class="bi-cart-fill me-1"></i>
+                            Carrito
+                            <span class="badge bg-dark text-white ms-1 rounded-pill">0</span>
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </nav>
+        <!-- Header-->
+        <header class="bg-dark py-5">
+            <div class="container px-4 px-lg-5 my-5">
+                <div class="text-center text-white">
+                    <h1 class="display-4 fw-bolder">Compra con estilo</h1>
+                    <p class="lead fw-normal text-white-50 mb-0">Los mejores precios de celulares</p>
+                </div>
+            </div>
+        </header>
+        <!-- Section-->
+        <section class="py-5">
+            <div class="container px-4 px-lg-5 mt-5">
+                <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+                    <div class="col mb-5">
+                        <div class="card h-100">
+                            <!-- Product image-->
+                            <img class="card-img-top" src="https://img.global.news.samsung.com/co/wp-content/uploads/2020/06/019_galaxya51_white_front.png" alt="..." />
+                            <!-- Product details-->
+                            <div class="card-body p-4">
+                                <div class="text-center">
+                                    <!-- Product name-->
+                                    <h5 class="fw-bolder">Samsung-galaxy-A51</h5>
+                                    <!-- Product price-->
+                                    $1.300.000
+                                </div>
+                            </div>
+                            <!-- Product actions-->
+                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Comprar</a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col mb-5">
+                        <div class="card h-100">
+                            <!-- Sale badge-->
+                            <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem"></div>
+                            <!-- Product image-->
+                           <center><img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1QqvBdKJLbUn2hG1lbeR2jyIOJ5IaN_nlMs2zscgL9FNMqBTGihIc6KfjSOJOZfJiVRI&usqp=CAU" style="width:150px ;" alt="..." /> </center>
+                            <!-- Product details-->
+                            <div class="card-body p-4">
+                                <div class="text-center">
+                                    <!-- Product name-->
+                                    <h5 class="fw-bolder">Iphone-12-Pro-Max</h5>
+                                    <!-- Product reviews-->
+                                    
+                                    <!-- Product price-->
+                                    <span class="text-muted text-decoration-line-through">$5.000.000</span>
+                                    $4.699.999
+                                </div>
+                            </div>
+                            <!-- Product actions-->
+                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Comprar</a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col mb-5">
+                        <div class="card h-100">
+                            <!-- Sale badge-->
+                            <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem"></div>
+                            <!-- Product image-->
+                            <center><img class="card-img-top" src="https://i0.wp.com/windtux.com/wp-content/uploads/2022/05/Xiaomi-Redmi-Note-11-Pro-5G.png?resize=512%2C512&ssl=1" style="width: 200px ;" alt="..." /> </center>
+                            <!-- Product details-->
+                            <div class="card-body p-4">
+                                <div class="text-center">
+                                    <!-- Product name-->
+                                    <h5 class="fw-bolder">Xiaomi-Redmi-Note-11-Pro-5G</h5>
+                                    <!-- Product price-->
+                                    <span class="text-muted text-decoration-line-through"></span>
+                                    $1.300.000
+                                </div>
+                            </div>
+                            <!-- Product actions-->
+                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Comprar</a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col mb-5">
+                        <div class="card h-100">
+                            <!-- Product image-->
+                            <img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzmvxkeDf3Y5Zri1U-fXS1i03sd4YUKJZiq-c4mYQuK46z437S38arluTvHZdQ9FdcEDg&usqp=CAU" alt="..." />
+                            <!-- Product details-->
+                            <div class="card-body p-4">
+                                <div class="text-center">
+                                    <!-- Product name-->
+                                    <h5 class="fw-bolder">Xiaomi-Redmi-Note-10 5G</h5>
+                                    <!-- Product reviews-->
+                                   
+                                    <!-- Product price-->
+                                    $729.900
+                                </div>
+                            </div>
+                            <!-- Product actions-->
+                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Comprar</a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col mb-5">
+                        <div class="card h-100">
+                            <!-- Sale badge-->
+                            <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem"></div>
+                            <!-- Product image-->
+                            <img class="card-img-top" src="https://samsungempresarial.vtexassets.com/arquivos/ids/178872-1200-auto?width=1200&height=auto&aspect=true" alt="..." />
+                            <!-- Product details-->
+                            <div class="card-body p-4">
+                                <div class="text-center">
+                                    <!-- Product name-->
+                                    <h5 class="fw-bolder">Samsung-galaxy-S21 Fe</h5>
+                                    <!-- Product price-->
+                                    <span class="text-muted text-decoration-line-through">$3.200.000</span>
+                                    $2.599.999
+                                </div>
+                            </div>
+                            <!-- Product actions-->
+                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Comprar</a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col mb-5">
+                        <div class="card h-100">
+                            <!-- Product image-->
+                            <img class="card-img-top" src="https://www.alkosto.com/medias/8806094566970-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wyMjEzNzJ8aW1hZ2UvanBlZ3xpbWFnZXMvaGI1L2gxNS8xMzI5NjE0NzU2MjUyNi5qcGd8MWY2ZDhhNzZkNGM1ZmM2MjUyNjExMmI1NjVkNmZjMzYwMGIwZWJiMjAwZjZjMjEyMWQyOThjN2I1MTc3ZmJjYQ" alt="..." />
+                            <!-- Product details-->
+                            <div class="card-body p-4">
+                                <div class="text-center">
+                                    <!-- Product name-->
+                                    <h5 class="fw-bolder">Samsung-Galaxy-A03 Core</h5>
+                                    <!-- Product price-->
+                                    $450.000
+                                </div>
+                            </div>
+                            <!-- Product actions-->
+                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Comprar</a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col mb-5">
+                        <div class="card h-100">
+                            <!-- Sale badge-->
+                            <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem"></div>
+                            <!-- Product image-->
+                            <center><img class="card-img-top" src="https://i.linio.com/p/50feb2e9e7d955424166887865ddd392-product.webp" style ="width: 180px" alt="..." /> </center>
+                            <!-- Product details-->
+                            <div class="card-body p-4">
+                                <div class="text-center">
+                                    <!-- Product name-->
+                                    <h5 class="fw-bolder">Xiaomi-Redmi-9A</h5>
+                                    <span class="text-muted text-decoration-line-through"></span>
+
+                                    $410.000
+
+
+                                </div>
+                            </div>
+                        
+                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Comprar</a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col mb-5">
+                        <div class="card h-100">
+                           
+                            <img class="card-img-top" src="https://www.alkosto.com/medias/6941487206971-001-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxNjUyNDB8aW1hZ2UvanBlZ3xpbWFnZXMvaGVhL2gzZi8xMDcwNTg3NjMyMDI4Ni5qcGd8NDVlODIyMTExMzlhZTg1NmE0ZTJkZGZhNzdkMDJkMjBjYzBjMWNkNTZjODE3YzYwMjAwNmYxZDc5NTBhYjhkNA" alt="..." />
+                           
+                            <div class="card-body p-4">
+                                <div class="text-center">
+                                  
+                                    <h5 class="fw-bolder">Huawei-Y9a</h5>
+                                  
+                                    $950.000
+                                </div>
+                            </div>
+                 
+                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Comprar</a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Footer-->
+        <footer class="py-5 bg-dark">
+            <div class="container"><p class="m-0 text-center text-white">Store valledupar &copy;2022</p></div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
